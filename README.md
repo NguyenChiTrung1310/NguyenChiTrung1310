@@ -1,4 +1,4 @@
-# Hi there, I'm NguyenChiTrung 👋
+# Hi there, I'm Nguyen Chi Trung 👋
 
 ## 🚀 Senior Frontend Developer
 
