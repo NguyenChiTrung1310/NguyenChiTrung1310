@@ -23,18 +23,18 @@ I'm a passionate Senior Frontend Developer specializing in building exceptional 
 ### 🔥 Featured Projects
 
 #### 🎬 **Movie Booking System**
-A full-featured movie booking application with real-time seat selection and booking management.
+A full-featured movie booking application built with React.
 - **Tech**: JavaScript, React
 - 📦 [FE47-Booking_Movies](https://github.com/NguyenChiTrung1310/FE47-Booking_Movies)
 
 #### 🏆 **Awwwards Web with GSAP**
-An award-worthy website featuring stunning animations and interactions using GSAP.
+A website featuring advanced animations and interactions using GSAP animation library.
 - **Tech**: JavaScript, GSAP, Modern Web APIs
 - 📦 [Awwwards-web-gsap](https://github.com/NguyenChiTrung1310/Awwwards-web-gsap)
 
 #### 🤖 **Next.js AI Application**
-Cutting-edge AI-powered web application built with Next.js and TypeScript.
-- **Tech**: Next.js, TypeScript, AI Integration
+AI-powered web application built with Next.js and TypeScript.
+- **Tech**: Next.js, TypeScript, AI APIs
 - 📦 [nextjs-ai](https://github.com/NguyenChiTrung1310/nextjs-ai)
 
 #### 💼 **Personal Portfolio**
